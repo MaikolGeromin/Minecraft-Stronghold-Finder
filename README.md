@@ -14,6 +14,6 @@ Then we move about 150 blocks away from the first point, possibly perpendicularl
 
 ![Minecraft image 2](/images/Minecraft2d.png "Second throw of Eye of Ender")
 
-Now we're ready to use the program by double-clicking on the .exe file (note that it might take some second for the program to open). We just need to insert the data in the right text fields and press "Calculate". The approximate coordinates of the stronghold should appear at the bottom. 
+Now we're ready to use the program by double-clicking on the .exe file (note that it might take some second for the program to open). We just need to insert the data in the correct text fields and press "Calculate". The approximate coordinates of the stronghold should appear at the bottom. 
 
 
